@@ -1,6 +1,7 @@
 //Git練習用ソース
 //コメント追加
 //コメント追加２
+//コメント追加3
 
 #include<iostream>	//input,output
 #include<thread>	//thread
