@@ -1,8 +1,8 @@
+//Git練習用ソース
+
 #include<iostream>	//input,output
 #include<thread>	//thread
 #include<semaphore.h>	//semaphore
-
-//git練習用ソース
 
 //値を出力する関数
 void NumberOutput( int number, sem_t &ownNumberSem, sem_t &otherNumberSem ){
