@@ -6,6 +6,8 @@
 
 //work2からのコメント追加
 
+//コメント追加５
+
 #include<iostream>	//input,output
 #include<thread>	//thread
 #include<semaphore.h>	//semaphore
