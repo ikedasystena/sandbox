@@ -4,6 +4,8 @@
 //コメント追加３
 //コメント追加４
 
+//workからのコメント追加
+
 #include<iostream>	//input,output
 #include<thread>	//thread
 #include<semaphore.h>	//semaphore
