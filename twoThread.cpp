@@ -1,12 +1,4 @@
 //Git練習用ソース
-//コメント追加
-//コメント追加２
-//コメント追加３
-//コメント追加４
-
-//work2からのコメント追加
-
-//コメント追加５
 
 #include<iostream>	//input,output
 #include<thread>	//thread
