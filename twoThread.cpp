@@ -1,11 +1,9 @@
-//Git練習用ソース
-
 #include<iostream>	//input,output
 #include<thread>	//thread
 #include<semaphore.h>	//semaphore
 
 //値を出力する関数
-void numberOutput( int number, sem_t &ownNumberSem, sem_t &otherNumberSem ){
+void NumberOutput( int number, sem_t &ownNumberSem, sem_t &otherNumberSem ){
 
     for( int i = number; i <= 10; i+=2 ){
         sem_wait( &ownNumberSem );
